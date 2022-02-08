@@ -14,3 +14,10 @@ web-build/
 .DS_Store
 
 keys.py
+
+venv
+venv-linux
+__pycache__
+
+.vscode
+.expo-shared
