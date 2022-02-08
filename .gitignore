@@ -15,8 +15,8 @@ web-build/
 
 keys.py
 
-venv
 venv-linux
+venv
 __pycache__
 
 .vscode
