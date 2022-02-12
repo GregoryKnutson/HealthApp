@@ -15,3 +15,4 @@ web-build/
 keys.py
 venv
 __pycache__
+settings.py
